@@ -4,10 +4,13 @@ Most of this is of little interest for anyone but me
 
 * [Barnsley Fern](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Barnsley Fern.ipynb)
 * [Circle center](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Circle center.ipynb)
+* [Coke bottle as a pressurized water container](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Coke bottle as a pressurized water container.ipynb)
 * [Ideal price for known future dividend](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Ideal price for known future dividend.ipynb)
+* [Introduction till SCBs nya API](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Introduction till SCBs nya API.ipynb)
 * [Material data](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Material data.ipynb)
 * [Modern portfolio theory](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Modern portfolio theory.ipynb)
 * [Orbit](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Orbit.ipynb)
+* [Parallel IPython](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Parallel IPython.ipynb)
 * [Pension](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Pension.ipynb)
 * [Shadow flicker](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Shadow flicker.ipynb)
 * [Sympy integrate](http://nbviewer.ipython.org/urls/raw.github.com/davidosterberg/ipython-notebooks/master/Sympy integrate.ipynb)
